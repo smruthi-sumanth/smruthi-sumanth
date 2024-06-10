@@ -1,14 +1,58 @@
-### Hi there 👋
+---
 
-<!--
-**smruthi-sumanth/smruthi-sumanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Smruthi Rao, a passionate developer and researcher from India, focused on creating innovative solutions through machine learning, deep learning, and open-source projects. I'm committed to contributing to the tech-ready workforce's diversity, inclusion, and equity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..,
+### 🚀 About Me
+
+- 🎓 I am currently exploring machine learning, research, open-source, and development.
+- 🎶 I enjoy playing the violin and reading in my free time.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages**: Python, JavaScript
+- **Machine Learning**: TensorFlow, Keras, PyTorch
+- **Web Development**: Flask, Stramlit
+- **Data Visualization**: Matplotlib, Librosa
+- **Database**: MongoDB, GridFS, SQL
+- **3D Modeling**: Wolfram Language, Echo3D
+- **Version Control**: Git, GitHub
+
+---
+
+### 🔭 Current Projects
+
+- **Video Classification**: Training models to classify shoplifting videos using TensorFlow and TensorFlow Hub.
+- **Audio Classification**: Working on classifying violin and cello audio clips, visualizing spectrograms, and filtering datasets based on pitch.
+- **3D Modeling**: Creating 3D models from mathematical expressions using Wolfram Alpha API and saving them as OBJ files, and integrating this with MongoDB and Echo3D.
+- **Flask Application**: Developing a Flask application to manage and visualize 3D plots generated from mathematical equations.
+- **Vector Database**: Adding new documents and managing data using the Mistral large language model (LLM).
+
+---
+
+### 🌱 Learning & Exploring
+
+- Transfer learning and fine-tuning models for specific applications.
+- Data augmentation techniques to improve model performance.
+- Connecting front-end and back-end technologies to create seamless applications.
+- Enhancing database management and integration with modern APIs.
+
+---
+
+### 📫 How to Reach Me
+
+- **Email**: [smruthisumanthrao@gmail.com]
+
+---
+
+### 🤝 Let's Collaborate
+
+I'm always open to new opportunities, collaborations, and contributions to exciting projects. Feel free to reach out if you'd like to work together or if you have any questions about my projects.
+
+---
+
+
+Thank you for visiting my profile! Have a great day! 😊
