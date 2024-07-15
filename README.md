@@ -11,18 +11,6 @@ I'm Smruthi Rao, a passionate developer and researcher from India, focused on cr
 
 ---
 
-### 🛠️ Technologies & Tools
-
-- **Languages**: Python, JavaScript
-- **Machine Learning**: TensorFlow, Keras, PyTorch
-- **Web Development**: Flask, Stramlit
-- **Data Visualization**: Matplotlib, Librosa
-- **Database**: MongoDB, GridFS, SQL
-- **3D Modeling**: Wolfram Language, Echo3D
-- **Version Control**: Git, GitHub
-
----
-
 ### 🔭 Current Projects
 
 - **Video Classification**: Training models to classify shoplifting videos using TensorFlow and TensorFlow Hub.
